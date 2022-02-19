@@ -1,1 +1,2 @@
 # twitter-sentiment-EDA
+In this notebook we will take a closer look at the Twitter Sentiment Extraction dataset by Kaggle, found here: https://www.kaggle.com/c/tweet-sentiment-extraction/overview. Through varying plots and visualizations we will attempt to get a better view/understanding of this data, including but not limited to the distribution of words/phrases charged with sentiment, similarities between whole texts and selected sections which contain sentiment, as well as most commonly appearing words/ most emotionally charged words.
